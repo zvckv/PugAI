@@ -33,3 +33,11 @@ L'application est divisée en plusieurs espaces de travail pour vous offrir une 
   * Gestionnaire d'historique avancé : épinglez (📌), renommez (✏️) ou supprimez vos discussions.
   * Corbeille de récupération pour ne rien perdre par erreur.
   * Toggle pour basculer entre le thème **Clair** et **Sombre**.
+ 
+ 
+## Aperçu de l'application
+
+![Discussion](chat1.png.png)
+![Documents](chat2.png.png)
+![Statistiques](chat3.png.png)
+![Profil](chat4.png.png)
