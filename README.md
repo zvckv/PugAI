@@ -37,7 +37,7 @@ L'application est divisée en plusieurs espaces de travail pour vous offrir une 
  
 ## Aperçu de l'application
 
-![Discussion](chat1.png)
-![Documents](chat2.png)
-![Statistiques](chat3.png)
-![Profil](chat4.png)
+<img src="images/chat1.png.png" width="800">
+<img src="images/chat2.png.png" width="800">
+<img src="images/chat3.png.png" width="800">
+<img src="images/chat4.png.png" width="800">
