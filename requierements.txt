@@ -1,0 +1,6 @@
+streamlit
+gpt4all
+pypdf
+docx2txt
+pyttsx3
+pandas
