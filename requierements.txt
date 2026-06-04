@@ -1,5 +1,5 @@
 streamlit
-gpt4all
+gpt4all==2.7.0
 pypdf
 docx2txt
 pyttsx3
